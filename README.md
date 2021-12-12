@@ -1,1 +1,2 @@
-# git_test
+# GIT Test
+to study and understand git basics
